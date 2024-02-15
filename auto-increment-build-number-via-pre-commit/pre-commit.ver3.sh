@@ -13,7 +13,7 @@
 #        major.minor part stay unchanged.
 #
 #
-# Version number should be stored in ${SCRIPT_FILE_NAME} file with one of these formats:
+# Version number should be placed in ${SCRIPT_FILE_NAME} file (see "MANDATORY VARIABLES" below) with one of these formats:
 #
 #
 #        #!/usr/bin/env python
